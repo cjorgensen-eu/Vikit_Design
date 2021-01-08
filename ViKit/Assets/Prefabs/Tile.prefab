@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: c35b78957943fa24baa309a20903b209, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -108,4 +108,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileMaterial: {fileID: 2100000, guid: c35b78957943fa24baa309a20903b209, type: 2}
-  hoveredMaterial: {fileID: 2100000, guid: 9e0c24711992474488ac45a3b8d1cefe, type: 2}
+  hoveredMaterial: {fileID: 2100000, guid: 4981cb58328179f4890714fb883df835, type: 2}
